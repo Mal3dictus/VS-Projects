@@ -1,0 +1,15 @@
+D:\VS project\car task\car task\bin\Debug\net6.0\car task.exe
+D:\VS project\car task\car task\bin\Debug\net6.0\car task.deps.json
+D:\VS project\car task\car task\bin\Debug\net6.0\car task.runtimeconfig.json
+D:\VS project\car task\car task\bin\Debug\net6.0\car task.dll
+D:\VS project\car task\car task\bin\Debug\net6.0\ref\car task.dll
+D:\VS project\car task\car task\bin\Debug\net6.0\car task.pdb
+D:\VS project\car task\car task\obj\Debug\net6.0\car task.csproj.AssemblyReference.cache
+D:\VS project\car task\car task\obj\Debug\net6.0\car task.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS project\car task\car task\obj\Debug\net6.0\car task.AssemblyInfoInputs.cache
+D:\VS project\car task\car task\obj\Debug\net6.0\car task.AssemblyInfo.cs
+D:\VS project\car task\car task\obj\Debug\net6.0\car task.csproj.CoreCompileInputs.cache
+D:\VS project\car task\car task\obj\Debug\net6.0\car task.dll
+D:\VS project\car task\car task\obj\Debug\net6.0\ref\car task.dll
+D:\VS project\car task\car task\obj\Debug\net6.0\car task.pdb
+D:\VS project\car task\car task\obj\Debug\net6.0\car task.genruntimeconfig.cache

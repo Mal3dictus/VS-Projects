@@ -1,0 +1,15 @@
+D:\VS project\Cooker\Cooker\bin\Debug\net6.0\Cooker.exe
+D:\VS project\Cooker\Cooker\bin\Debug\net6.0\Cooker.deps.json
+D:\VS project\Cooker\Cooker\bin\Debug\net6.0\Cooker.runtimeconfig.json
+D:\VS project\Cooker\Cooker\bin\Debug\net6.0\Cooker.dll
+D:\VS project\Cooker\Cooker\bin\Debug\net6.0\ref\Cooker.dll
+D:\VS project\Cooker\Cooker\bin\Debug\net6.0\Cooker.pdb
+D:\VS project\Cooker\Cooker\obj\Debug\net6.0\Cooker.csproj.AssemblyReference.cache
+D:\VS project\Cooker\Cooker\obj\Debug\net6.0\Cooker.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS project\Cooker\Cooker\obj\Debug\net6.0\Cooker.AssemblyInfoInputs.cache
+D:\VS project\Cooker\Cooker\obj\Debug\net6.0\Cooker.AssemblyInfo.cs
+D:\VS project\Cooker\Cooker\obj\Debug\net6.0\Cooker.csproj.CoreCompileInputs.cache
+D:\VS project\Cooker\Cooker\obj\Debug\net6.0\Cooker.dll
+D:\VS project\Cooker\Cooker\obj\Debug\net6.0\ref\Cooker.dll
+D:\VS project\Cooker\Cooker\obj\Debug\net6.0\Cooker.pdb
+D:\VS project\Cooker\Cooker\obj\Debug\net6.0\Cooker.genruntimeconfig.cache

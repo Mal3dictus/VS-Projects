@@ -1,0 +1,16 @@
+C:\Users\Student\Desktop\hakerstvane\Task-Phone-Book\bin\Debug\net6.0-windows\Task-Phone-Book.exe
+C:\Users\Student\Desktop\hakerstvane\Task-Phone-Book\bin\Debug\net6.0-windows\Task-Phone-Book.deps.json
+C:\Users\Student\Desktop\hakerstvane\Task-Phone-Book\bin\Debug\net6.0-windows\Task-Phone-Book.runtimeconfig.json
+C:\Users\Student\Desktop\hakerstvane\Task-Phone-Book\bin\Debug\net6.0-windows\Task-Phone-Book.dll
+C:\Users\Student\Desktop\hakerstvane\Task-Phone-Book\bin\Debug\net6.0-windows\Task-Phone-Book.pdb
+C:\Users\Student\Desktop\hakerstvane\Task-Phone-Book\obj\Debug\net6.0-windows\Task_Phone_Book.PhoneBook.resources
+C:\Users\Student\Desktop\hakerstvane\Task-Phone-Book\obj\Debug\net6.0-windows\Task-Phone-Book.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\hakerstvane\Task-Phone-Book\obj\Debug\net6.0-windows\Task-Phone-Book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\hakerstvane\Task-Phone-Book\obj\Debug\net6.0-windows\Task-Phone-Book.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\hakerstvane\Task-Phone-Book\obj\Debug\net6.0-windows\Task-Phone-Book.AssemblyInfo.cs
+C:\Users\Student\Desktop\hakerstvane\Task-Phone-Book\obj\Debug\net6.0-windows\Task-Phone-Book.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\hakerstvane\Task-Phone-Book\obj\Debug\net6.0-windows\Task-Phone-Book.dll
+C:\Users\Student\Desktop\hakerstvane\Task-Phone-Book\obj\Debug\net6.0-windows\refint\Task-Phone-Book.dll
+C:\Users\Student\Desktop\hakerstvane\Task-Phone-Book\obj\Debug\net6.0-windows\Task-Phone-Book.pdb
+C:\Users\Student\Desktop\hakerstvane\Task-Phone-Book\obj\Debug\net6.0-windows\Task-Phone-Book.genruntimeconfig.cache
+C:\Users\Student\Desktop\hakerstvane\Task-Phone-Book\obj\Debug\net6.0-windows\ref\Task-Phone-Book.dll

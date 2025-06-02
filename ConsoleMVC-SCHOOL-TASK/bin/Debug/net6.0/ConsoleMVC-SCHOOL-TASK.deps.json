@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConsoleMVC-SCHOOL-TASK/1.0.0": {
+        "runtime": {
+          "ConsoleMVC-SCHOOL-TASK.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleMVC-SCHOOL-TASK/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

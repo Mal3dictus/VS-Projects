@@ -1,0 +1,14 @@
+/home/mal/VS-Code/ListSumAvr/ListSumAvr/bin/Debug/net6.0/ListSumAvr
+/home/mal/VS-Code/ListSumAvr/ListSumAvr/bin/Debug/net6.0/ListSumAvr.deps.json
+/home/mal/VS-Code/ListSumAvr/ListSumAvr/bin/Debug/net6.0/ListSumAvr.runtimeconfig.json
+/home/mal/VS-Code/ListSumAvr/ListSumAvr/bin/Debug/net6.0/ListSumAvr.dll
+/home/mal/VS-Code/ListSumAvr/ListSumAvr/bin/Debug/net6.0/ListSumAvr.pdb
+/home/mal/VS-Code/ListSumAvr/ListSumAvr/obj/Debug/net6.0/ListSumAvr.GeneratedMSBuildEditorConfig.editorconfig
+/home/mal/VS-Code/ListSumAvr/ListSumAvr/obj/Debug/net6.0/ListSumAvr.AssemblyInfoInputs.cache
+/home/mal/VS-Code/ListSumAvr/ListSumAvr/obj/Debug/net6.0/ListSumAvr.AssemblyInfo.cs
+/home/mal/VS-Code/ListSumAvr/ListSumAvr/obj/Debug/net6.0/ListSumAvr.csproj.CoreCompileInputs.cache
+/home/mal/VS-Code/ListSumAvr/ListSumAvr/obj/Debug/net6.0/ListSumAvr.dll
+/home/mal/VS-Code/ListSumAvr/ListSumAvr/obj/Debug/net6.0/refint/ListSumAvr.dll
+/home/mal/VS-Code/ListSumAvr/ListSumAvr/obj/Debug/net6.0/ListSumAvr.pdb
+/home/mal/VS-Code/ListSumAvr/ListSumAvr/obj/Debug/net6.0/ListSumAvr.genruntimeconfig.cache
+/home/mal/VS-Code/ListSumAvr/ListSumAvr/obj/Debug/net6.0/ref/ListSumAvr.dll

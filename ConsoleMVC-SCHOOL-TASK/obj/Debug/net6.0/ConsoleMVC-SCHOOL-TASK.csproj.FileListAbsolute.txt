@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\hakerstvane\ConsoleMVC-SCHOOL-TASK\bin\Debug\net6.0\ConsoleMVC-SCHOOL-TASK.exe
+C:\Users\Student\Desktop\hakerstvane\ConsoleMVC-SCHOOL-TASK\bin\Debug\net6.0\ConsoleMVC-SCHOOL-TASK.deps.json
+C:\Users\Student\Desktop\hakerstvane\ConsoleMVC-SCHOOL-TASK\bin\Debug\net6.0\ConsoleMVC-SCHOOL-TASK.runtimeconfig.json
+C:\Users\Student\Desktop\hakerstvane\ConsoleMVC-SCHOOL-TASK\bin\Debug\net6.0\ConsoleMVC-SCHOOL-TASK.dll
+C:\Users\Student\Desktop\hakerstvane\ConsoleMVC-SCHOOL-TASK\bin\Debug\net6.0\ConsoleMVC-SCHOOL-TASK.pdb
+C:\Users\Student\Desktop\hakerstvane\ConsoleMVC-SCHOOL-TASK\obj\Debug\net6.0\ConsoleMVC-SCHOOL-TASK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\hakerstvane\ConsoleMVC-SCHOOL-TASK\obj\Debug\net6.0\ConsoleMVC-SCHOOL-TASK.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\hakerstvane\ConsoleMVC-SCHOOL-TASK\obj\Debug\net6.0\ConsoleMVC-SCHOOL-TASK.AssemblyInfo.cs
+C:\Users\Student\Desktop\hakerstvane\ConsoleMVC-SCHOOL-TASK\obj\Debug\net6.0\ConsoleMVC-SCHOOL-TASK.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\hakerstvane\ConsoleMVC-SCHOOL-TASK\obj\Debug\net6.0\ConsoleMVC-SCHOOL-TASK.dll
+C:\Users\Student\Desktop\hakerstvane\ConsoleMVC-SCHOOL-TASK\obj\Debug\net6.0\refint\ConsoleMVC-SCHOOL-TASK.dll
+C:\Users\Student\Desktop\hakerstvane\ConsoleMVC-SCHOOL-TASK\obj\Debug\net6.0\ConsoleMVC-SCHOOL-TASK.pdb
+C:\Users\Student\Desktop\hakerstvane\ConsoleMVC-SCHOOL-TASK\obj\Debug\net6.0\ConsoleMVC-SCHOOL-TASK.genruntimeconfig.cache
+C:\Users\Student\Desktop\hakerstvane\ConsoleMVC-SCHOOL-TASK\obj\Debug\net6.0\ref\ConsoleMVC-SCHOOL-TASK.dll

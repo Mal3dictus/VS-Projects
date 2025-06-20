@@ -13,3 +13,17 @@ D:\VS project\PswordGn\PswordGn\obj\Debug\net6.0\PswordGn.dll
 D:\VS project\PswordGn\PswordGn\obj\Debug\net6.0\ref\PswordGn.dll
 D:\VS project\PswordGn\PswordGn\obj\Debug\net6.0\PswordGn.pdb
 D:\VS project\PswordGn\PswordGn\obj\Debug\net6.0\PswordGn.genruntimeconfig.cache
+C:\Users\Mal\Desktop\PswordGn\PswordGn\bin\Debug\net6.0\PswordGn.exe
+C:\Users\Mal\Desktop\PswordGn\PswordGn\bin\Debug\net6.0\PswordGn.deps.json
+C:\Users\Mal\Desktop\PswordGn\PswordGn\bin\Debug\net6.0\PswordGn.runtimeconfig.json
+C:\Users\Mal\Desktop\PswordGn\PswordGn\bin\Debug\net6.0\PswordGn.dll
+C:\Users\Mal\Desktop\PswordGn\PswordGn\bin\Debug\net6.0\PswordGn.pdb
+C:\Users\Mal\Desktop\PswordGn\PswordGn\obj\Debug\net6.0\PswordGn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mal\Desktop\PswordGn\PswordGn\obj\Debug\net6.0\PswordGn.AssemblyInfoInputs.cache
+C:\Users\Mal\Desktop\PswordGn\PswordGn\obj\Debug\net6.0\PswordGn.AssemblyInfo.cs
+C:\Users\Mal\Desktop\PswordGn\PswordGn\obj\Debug\net6.0\PswordGn.csproj.CoreCompileInputs.cache
+C:\Users\Mal\Desktop\PswordGn\PswordGn\obj\Debug\net6.0\PswordGn.dll
+C:\Users\Mal\Desktop\PswordGn\PswordGn\obj\Debug\net6.0\refint\PswordGn.dll
+C:\Users\Mal\Desktop\PswordGn\PswordGn\obj\Debug\net6.0\PswordGn.pdb
+C:\Users\Mal\Desktop\PswordGn\PswordGn\obj\Debug\net6.0\PswordGn.genruntimeconfig.cache
+C:\Users\Mal\Desktop\PswordGn\PswordGn\obj\Debug\net6.0\ref\PswordGn.dll

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VS project\\PswordGn\\PswordGn\\PswordGn.csproj": {}
+    "C:\\Users\\Mal\\Desktop\\PswordGn\\PswordGn\\PswordGn.csproj": {}
   },
   "projects": {
-    "D:\\VS project\\PswordGn\\PswordGn\\PswordGn.csproj": {
+    "C:\\Users\\Mal\\Desktop\\PswordGn\\PswordGn\\PswordGn.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VS project\\PswordGn\\PswordGn\\PswordGn.csproj",
+        "projectUniqueName": "C:\\Users\\Mal\\Desktop\\PswordGn\\PswordGn\\PswordGn.csproj",
         "projectName": "PswordGn",
-        "projectPath": "D:\\VS project\\PswordGn\\PswordGn\\PswordGn.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\VS project\\PswordGn\\PswordGn\\obj\\",
+        "projectPath": "C:\\Users\\Mal\\Desktop\\PswordGn\\PswordGn\\PswordGn.csproj",
+        "packagesPath": "C:\\Users\\Mal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mal\\Desktop\\PswordGn\\PswordGn\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mal\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,8 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.emzi0767.com/api/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -39,6 +38,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -50,7 +54,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -59,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
